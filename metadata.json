@@ -1,0 +1,6 @@
+{
+  "name": "Word Meaning",
+  "description": "Search any English word to get its meaning, simple examples, synonyms, and pronunciation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
